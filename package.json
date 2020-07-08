@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TheMonsterCheese/crispy-winner/issues"
   },
-  "homepage": "https://github.com/TheMonsterCheese/crispy-winner#readme"
+  "homepage": "https://github.com/TheMonsterCheese/crispy-winner#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
